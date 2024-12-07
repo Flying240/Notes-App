@@ -73,31 +73,30 @@ Follow these instructions to set up and run the application on your local machin
 
 # Screenshot of this Project:- 
 
-SignUp Page
+## SignUp Page
 
 ![Screenshot 2024-12-08 014132](https://github.com/user-attachments/assets/3390cc4d-1e37-4ed9-96a0-e8179c5ccdbb)
-ge/ Create Page
 
-Login Page (user not found)
+## Login Page (user not found)
 
 ![Screenshot 2024-12-08 014229](https://github.com/user-attachments/assets/055500f3-82d4-499f-8453-35f630d8a73e)
 
-First Visit of User to home page
+## First Visit of User to home page
 
 ![Screenshot 2024-12-08 014251](https://github.com/user-attachments/assets/b6d6a633-ec5c-45d6-865a-954110e9bd7e)
 
-Add Page
+## Add Page
 
 ![Screenshot 2024-12-08 014343](https://github.com/user-attachments/assets/5768cb6a-84d4-42b2-a71f-e0aa0c3f174d)
 
-Home Page
+## Home Page
 
 ![Screenshot 2024-12-08 015033](https://github.com/user-attachments/assets/6f775f84-f0f0-4589-ac0b-b2a5fae0ab08)
 
-Edit Page
+## Edit Page
 
 ![Screenshot 2024-12-08 014917](https://github.com/user-attachments/assets/2463ed3e-1fcd-4fd0-826f-8a5b6cf67c9b)
 
-Search 
+## Search 
 
 ![Screenshot 2024-12-08 014931](https://github.com/user-attachments/assets/775bcf0e-7a30-4f2d-9a9b-a4e5a40743e7)
