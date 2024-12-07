@@ -1,4 +1,4 @@
-# **Notes App - MERN Stack Application**
+![Screenshot 2024-12-08 015938](https://github.com/user-attachments/assets/d9abbccd-6a6b-45f0-ac40-0e2f7f25d9b5)# **Notes App - MERN Stack Application**
 
 A full-stack MERN (MongoDB, Express.js, React.js, Node.js) application that allows users to manage their personal notes effectively. The application supports user authentication and provides functionalities to create, update, delete, and search notes.
 
@@ -100,3 +100,9 @@ Follow these instructions to set up and run the application on your local machin
 ## Search 
 
 ![Screenshot 2024-12-08 014931](https://github.com/user-attachments/assets/775bcf0e-7a30-4f2d-9a9b-a4e5a40743e7)
+
+
+## Delete
+
+![Screenshot 2024-12-08 015938](https://github.com/user-attachments/assets/cd24e711-868d-47fb-9477-3e50e7beb42b)
+
