@@ -27,7 +27,7 @@ A full-stack MERN (MongoDB, Express.js, React.js, Node.js) application that allo
 ## **Tech Stack**
 
 ### Frontend:
-- React.js (To be integrated)
+- React.js
 
 ### Backend:
 - **Node.js**: Server-side JavaScript runtime.
