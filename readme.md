@@ -60,15 +60,16 @@ Follow these instructions to set up and run the application on your local machin
 
 ## To Start/Run open two different terminals to the below described directory and run commands 
 
+### 1) Type MongoDb URL
     First Type your mongo URL in connectionString in /backend/2_config/config.json file
     
-### 1) /backend:-   
+### 2) /backend:-   
     npm install
     npm start
 
     (ignore any warnings)
     
-### 2) /frontend/react:-
+### 3) /frontend/react:-
     npm install
     npm install axios
     npm run dev
