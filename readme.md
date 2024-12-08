@@ -65,6 +65,8 @@ Follow these instructions to set up and run the application on your local machin
 ### 1) /backend:-   
     npm install
     npm start
+
+    (ignore any warnings)
     
 ### 2) /frontend/react:-
     npm install
