@@ -71,7 +71,6 @@ Follow these instructions to set up and run the application on your local machin
     
 ### 3) /frontend/react:-
     npm install
-    npm install axios
     npm run dev
 
 # Screenshot of this Project:- 
